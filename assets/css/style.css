@@ -1,6 +1,6 @@
 #container {
     text-align: center;
-    border: solid 1px;
+    border: solid lightgrey 1px;
     width: 1000px;
     border-radius: 5px;
 }
@@ -17,4 +17,8 @@ h1 {
 
 }
 
-
+#searchParams {
+    background-color: #f8f8f8;
+    border: #28345c;
+    font-weight: bolder;
+}
